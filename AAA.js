@@ -1,1 +1,3 @@
-console.log("Puta Madre")
+console.log("Puta Madre=Mother fucker")
+let x = Math.floor(Math.random()*6)+1
+console.log(x)
